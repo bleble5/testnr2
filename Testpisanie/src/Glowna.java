@@ -7,5 +7,6 @@ public class Glowna {
 		//lottoobiekt.wpisz();
 		lottoobiekt.losowanie();
 		lottoobiekt.porownanie();
+		// komentarz dodany by sprwadzic githuba
 	}
 }
